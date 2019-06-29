@@ -1,4 +1,4 @@
-[<img src="../index.jpg" width = "80" height = "80"  />](../首页.md#index)
+[<img src="../index.jpg" width = "80" height = "80"  />](../index.md#index)
 
 <h1 id="vsCode">VSCode插件安装</h1>
 

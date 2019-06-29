@@ -1,4 +1,4 @@
-[<img src="../index.jpg" width = "80" height = "80"  />](../首页.md#index)
+[<img src="../index.jpg" width = "80" height = "80"  />](../index.md#index)
 
 <h2 id="vuecli">使用Vue-cli构建项目</h2>
 

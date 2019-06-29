@@ -1,4 +1,5 @@
-[<img src="../index.jpg" width = "80" height = "80"  />](../首页.md#index)
+[<img src="../index.jpg" width = "80" height = "80"  />](../index.md#index)
+
 <h2>Vue.js安装</h2>
 
 1、安装node.js，自带npm环境。
