@@ -53,7 +53,7 @@
       
   - <h4>问题</h4>
   
-      - [解决进程被占用](java/问题/解决进程被占用.md#jincheng)
+      - [解决进程被占用](Java/问题/解决进程被占用.md#jincheng)
   
 - <h3>Visual Studio Code</h3>
 
