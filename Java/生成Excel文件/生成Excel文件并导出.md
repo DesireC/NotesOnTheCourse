@@ -103,7 +103,7 @@ public void export(String[] titles, ServletOutputStream out, BookService service
 			// 第四步，创建单元格，并设置值表头，设置表头居中
 			HSSFCellStyle hssfCellStyle = workbook.createCellStyle();
 			// 居中样式
-			hssfCellStyle.setAlignment(HSSFCellStyle.ALIGN_CENTER);
+			hssfCellStyle.setAlignment(HorizontalAlignment.CENTER);
 			HSSFCell hssfCell = null;
 			for (int i = 0; i < titles.length; i++) {
 				hssfCell = row.createCell(i);// 列索引从0开始

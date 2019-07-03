@@ -9,6 +9,7 @@
   - <h4>SQL</h4>
   
       - [动态SQL语句](java/SQL/动态SQL语句.md#dtsql)
+      - [批量插入数据](Java/SQL/批量插入数据.md#piliang)
   
   - <h4>热部署</h4>
     
@@ -42,6 +43,7 @@
   - <h4>生成Excel 文件</h4>
   
       - [生成Excel文件并导出](Java/生成Excel文件/生成Excel文件并导出.md#excel)
+      - [上传Excel文件并读取至数据库（批量添加）](Java/生成Excel文件/上传Excel文件并读取至数据库.md#exceldb)
   
   - <h4>RESTful 风格</h4>
   
